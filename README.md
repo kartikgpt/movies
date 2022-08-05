@@ -18,15 +18,11 @@ virtualenv
 ```
 ```
 To install Dependencies
-
 ```
 pip install -r requirements.txt
 ```
-
 ### Creating Local Server
-
 Goto src directory, example
-
 ```
 cd ../movie/src
 ```
