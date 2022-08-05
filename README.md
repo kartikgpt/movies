@@ -39,6 +39,6 @@ python manage.py runserver
 Now open your browser and go to this address
 ```
 http://127.0.0.1:8000
-```
+
 
 Deployed at - https://kartikgpt-movies-app-8dwn50.streamlitapp.com/
